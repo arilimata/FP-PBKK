@@ -31,7 +31,6 @@
 # Daftar Isi
 
 - [Server DEMO](#server-demo)
-  - [Video Penjelasan Aplikasi](#video-penjelasan-aplikasi)
 - [Langkah Pembuatan](#langkah-pembuatan)
   - [Langkah 1: Install Codeigniter 4](#langkah-1-instal-codeigniter-4)
   - [Langkah 2: Create ERD](#langkah-2-create-erd)
@@ -52,11 +51,6 @@ User/Password Admin Page:<p>
 > Untuk menggunakan aplikasi ini ketik `git clone` paste code HTTPS.
 > `composer install` lalu `composer update` untuk menginstall dan memperbaharui versi vendor
 > `env copy` ubah nama ke `dot env` atau `.env` dan atur database secara manual<p>
-
-### Video Penjelasan Aplikasi
-[![Final video of fixing issues in your code in VS Code](http://i3.ytimg.com/vi/y3uyGajkOI4/hqdefault.jpg)](https://www.youtube.com/watch?v=y3uyGajkOI4)
-
-
 
 ## Langkah Pembuatan
 ### Langkah 1: Instal CodeIgniter 4
