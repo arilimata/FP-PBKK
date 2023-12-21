@@ -3,7 +3,7 @@
     <table border="1">
         <tr>
             <th>Nama</th>
-            <th>NIM</th>
+            <th>NRP</th>
         </tr>
         <tr>
             <td>Muhammad Zien Zidan</td>
