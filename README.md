@@ -4,22 +4,18 @@
         <tr>
             <th>Nama</th>
             <th>NIM</th>
-            <th>Kelas</th>
         </tr>
         <tr>
-            <td>Ahmad Syukron</td>
-            <td>312110056</td>
-            <td>TI.21.A.1</td>
+            <td>Muhammad Zien Zidan</td>
+            <td>5025211138</td>
         </tr>
         <tr>
-            <td>Abid Husein</td>
-            <td>312110031</td>
-            <td>TI.21.A.1</td>
+            <td>Ariella Firdaus Imata</td>
+            <td>5025211138</td>
         </tr>
         <tr>
-            <td>Iman Setiawan</td>
-            <td>312110219</td>
-            <td>TI.21.A.1</td>
+            <td>Sandyatama Fransisna Nugraha</td>
+            <td>5025211196</td>
         </tr>
         <tr>
         </tr>
@@ -50,7 +46,6 @@
 
 
 ##  Server DEMO
-Untuk mencoba aplikasi ini silahkan klik [DEMO](https://dinkadealer.site/) ini<p>
 User/Password Admin Page:<p> 
 - user: `admin2100`
 - password: `Ganteng12345`
